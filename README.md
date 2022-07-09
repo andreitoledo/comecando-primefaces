@@ -3,7 +3,7 @@
 
 #### Sobre:
 
-Um sistema simples, CRUD de cadastro de empresas, desenvolvido no workshop (Começando com PrimeFaces) na Algaworks, com o objetivo de explorar o PrimeFaces, mostrando algumas coisas legais e úteis dessa ferramenta.
+Um sistema simples, CRUD de cadastro de empresas, desenvolvido no workshop (Começando com PrimeFaces) com o objetivo de explorar o PrimeFaces, mostrando algumas coisas legais e úteis dessa ferramenta.
 
 #### Tecnologias:
 Sistema desenvolvido utilizando uma plataforma baseada na tecnologia Java EE.
