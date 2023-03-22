@@ -5,6 +5,12 @@
 
 Um sistema simples, CRUD de cadastro de empresas, desenvolvido no workshop (Começando com PrimeFaces) com o objetivo de explorar o PrimeFaces, mostrando algumas coisas legais e úteis dessa ferramenta.
 
+----
+![tela-crud](https://user-images.githubusercontent.com/16118637/226996235-ec9e693d-f837-459b-a49b-7f548cc0af0f.png)
+----
+![edicao](https://user-images.githubusercontent.com/16118637/226996158-5aea8b71-2ca1-4a9b-aff0-e2be6430403f.png)
+----
+
 #### Tecnologias:
 Sistema desenvolvido utilizando uma plataforma baseada na tecnologia Java EE.
 
