@@ -1,9 +1,10 @@
 # comecando-primefaces
 ## Workshop Java EE + PrimeFaces
+### Meu primeiro projeto em Java EE
 
 #### Sobre:
 
-Um sistema simples, CRUD de cadastro de empresas, desenvolvido no workshop (Começando com PrimeFaces) com o objetivo de explorar o PrimeFaces, mostrando algumas coisas legais e úteis dessa ferramenta.
+CRUD de cadastro de empresas, desenvolvido no workshop (Começando com PrimeFaces) com o objetivo de explorar o PrimeFaces, mostrando algumas coisas legais e úteis dessa ferramenta.
 
 ----
 ![tela-crud](https://user-images.githubusercontent.com/16118637/226996235-ec9e693d-f837-459b-a49b-7f548cc0af0f.png)
