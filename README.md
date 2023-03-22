@@ -1,5 +1,5 @@
-# comecando-primefaces
-## Workshop Java EE + PrimeFaces
+### comecando-primefaces
+### Workshop Java EE + PrimeFaces
 ### Meu primeiro projeto em Java EE
 
 #### Sobre:
@@ -27,7 +27,7 @@ Sistema desenvolvido utilizando uma plataforma baseada na tecnologia Java EE.
 - JUnit 4.12
 
 ----
->#### @author:
->#### Andrei Toledo
->#### Analista e Desenvolvedor de Sistemas
+>#### @author:                             <
+>#### Andrei Toledo                        <
+>#### Analista e Desenvolvedor de Sistemas <
 ----
