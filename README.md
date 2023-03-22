@@ -26,7 +26,8 @@ Sistema desenvolvido utilizando uma plataforma baseada na tecnologia Java EE.
 - hibernate-validator 5.1.2Final
 - JUnit 4.12
 
-#### @author:
-Andrei Toledo
-
-Analista e Desenvolvedor de Sistemas
+----
+>#### @author:
+>#### Andrei Toledo
+>#### Analista e Desenvolvedor de Sistemas
+----
